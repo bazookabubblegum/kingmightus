@@ -1,18 +1,21 @@
 main.css
-.navbar .navbar-inverse .navbar-fixed-top{
+
+body {
+	background-image:url("https://cn.dreamstime.com/%E8%82%A1%E7%A5%A8%E5%BD%95%E5%83%8F-%E9%9F%B3%E9%A2%91%E5%85%89%E8%B0%B1%E5%9C%88-video36261932");
+	background-repeat:repeat-x;
+}
+
+.navbar .navbar-inverse .navbar-fixed-top
+.container-fluid{
 	margin:0 auto;
 
 }
-.container{
+.container-fluid{
 	margin:0 auto;
 	width:600px;
 }
 
-.container
-h2{
-	text-align:center;
-	width:50%;
-}
+.container-fluid
 .rightNav
 .collapse .navbar-collapse
 #myNavbar
@@ -22,4 +25,14 @@ nav .navbar-nav{
 	border:solid 1px white;
 	display:block;
 	position: absolute;
+}
+
+.container
+h2{
+	text-align:center;
+	width:100%;
+}
+body {
+	background-image:url("https://cn.dreamstime.com/%E8%82%A1%E7%A5%A8%E5%BD%95%E5%83%8F-%E9%9F%B3%E9%A2%91%E5%85%89%E8%B0%B1%E5%9C%88-video36261932");
+	background-repeat:repeat-x;
 }
