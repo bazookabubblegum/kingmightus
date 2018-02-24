@@ -1,0 +1,25 @@
+main.css
+.navbar .navbar-inverse .navbar-fixed-top{
+	margin:0 auto;
+
+}
+.container{
+	margin:0 auto;
+	width:600px;
+}
+
+.container
+h2{
+	text-align:center;
+	width:50%;
+}
+.rightNav
+.collapse .navbar-collapse
+#myNavbar
+nav .navbar-nav{
+	right:0px;
+	width:50px;
+	border:solid 1px white;
+	display:block;
+	position: absolute;
+}
